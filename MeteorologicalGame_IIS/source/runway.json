@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "runway1.png",
+	"frame": {"x":2,"y":2,"w":174,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":320},
+	"sourceSize": {"w":174,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "runway2.png",
+	"frame": {"x":2,"y":324,"w":174,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":320},
+	"sourceSize": {"w":174,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "runway3.png",
+	"frame": {"x":2,"y":646,"w":174,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":320},
+	"sourceSize": {"w":174,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "runway.png",
+	"format": "RGBA8888",
+	"size": {"w":178,"h":968},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:412a62a1f41e37d35925438e3ba2efd9:c4ea33e0e96b816a0b6f8d47516c3310:7dc185b709e369515061a5c3088a914c$"
+}
+}

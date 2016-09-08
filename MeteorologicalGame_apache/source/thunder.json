@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "thunder1.png",
+	"frame": {"x":2,"y":2,"w":80,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":320},
+	"sourceSize": {"w":80,"h":320}
+},
+{
+	"filename": "thunder2.png",
+	"frame": {"x":62,"y":324,"w":58,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":58,"h":320},
+	"sourceSize": {"w":80,"h":320}
+},
+{
+	"filename": "thunder3.png",
+	"frame": {"x":2,"y":646,"w":38,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":38,"h":320},
+	"sourceSize": {"w":80,"h":320}
+},
+{
+	"filename": "thunder4.png",
+	"frame": {"x":2,"y":324,"w":58,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":58,"h":320},
+	"sourceSize": {"w":80,"h":320}
+},
+{
+	"filename": "thunder5.png",
+	"frame": {"x":84,"y":2,"w":42,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":42,"h":320},
+	"sourceSize": {"w":80,"h":320}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "thunder.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6cd45e5bb00f1c4c77fbfb799065528$"
+}
+}
